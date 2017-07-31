@@ -16,6 +16,6 @@
 [Урок 11](https://juliatitova.github.io/lesson_11/"") - Сниппет и Emmet (сканы)
 
 
-[Урок 13](https://juliatitova.github.io/lesson_13/"") - Pixel Perfect
+[Урок 13](https://juliatitova.github.io/lesson_13/) - Pixel Perfect
 
 
