@@ -34,4 +34,4 @@
 [Урок 15](https://juliatitova.github.io/lesson_15_practice/) - Практика. Медиа запросы
 
 
-[Урок 15](https://juliatitova.github.io/lesson_16/) - Слайдер
+[Урок 16](https://juliatitova.github.io/lesson_16/) - Слайдер
