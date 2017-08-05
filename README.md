@@ -38,3 +38,6 @@
 
 
 [Урок 16](https://juliatitova.github.io/lesson_16_practice/) - Практика. Слайдер
+
+
+[Урок 17](https://juliatitova.github.io/github/lesson_17/) - Модальное окно
