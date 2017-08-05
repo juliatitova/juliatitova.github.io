@@ -41,3 +41,6 @@
 
 
 [Урок 17](https://juliatitova.github.io/github/lesson_17/) - Модальное окно
+
+
+[Урок 17](https://juliatitova.github.io/lesson_17_practice/) - Практика. Модальное окно
