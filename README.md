@@ -46,4 +46,7 @@
 [Урок 17](https://juliatitova.github.io/lesson_17_practice/) - Практика. Модальное окно
 
 
+[Урок 18](https://juliatitova.github.io/github/lesson_18/) - Форма регистрации с табами
+
+
 [Урок 18](https://juliatitova.github.io/lesson_18_practice/) - Практика. Блок с ценами
