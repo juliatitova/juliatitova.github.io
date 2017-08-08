@@ -50,3 +50,6 @@
 
 
 [Урок 18](https://juliatitova.github.io/lesson_18_practice/) - Практика. Блок с ценами
+
+
+[Урок 19](https://juliatitova.github.io/lesson_19/) - Анимация
