@@ -53,3 +53,6 @@
 
 
 [Урок 19](https://juliatitova.github.io/lesson_19/) - Анимация
+
+
+[Урок 19](https://juliatitova.github.io/lesson_19_practice/) - Практика. Слайдер с отзывами
