@@ -59,3 +59,9 @@
 
 
 [Урок 20](https://juliatitova.github.io/lesson_20/) - Видеофон
+
+
+[Урок 20](https://juliatitova.github.io/lesson_20_practice/lesson_20_practice/) - Практика. Завершение блока с отзывами
+
+
+[Урок 21](https://juliatitova.github.io/lesson_21/) - Эффект Parallax
