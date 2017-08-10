@@ -1,0 +1,12 @@
+section{
+	padding-top: 450px;
+	text-align: center;
+	height: 600px;
+}
+img{
+	margin-right: 50px;
+	width: 120px;
+}
+img:nth-child(3) {
+	height: 150px;
+} 
