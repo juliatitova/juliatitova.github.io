@@ -65,3 +65,7 @@
 
 
 [Урок 21](https://juliatitova.github.io/lesson_21/) - Эффект Parallax
+
+
+[Урок 21](https://juliatitova.github.io/lesson_21_practice/) - Практика. Блоки: схема работы и всё включено
+
