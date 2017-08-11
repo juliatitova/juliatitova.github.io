@@ -69,3 +69,5 @@
 
 [Урок 21](https://juliatitova.github.io/lesson_21_practice/) - Практика. Блоки: схема работы и всё включено
 
+
+[Урок 22](https://juliatitova.github.io/lesson_22_practice/) - Практика. Блок: Мы развеем все опасения
