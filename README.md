@@ -74,3 +74,6 @@
 
 
 [Урок 22](https://juliatitova.github.io/lesson_22_practice/) - Практика. Блок: Мы развеем все опасения
+
+
+[Урок 23](https://juliatitova.github.io/lesson_23_practice/) - Практика. Блок: Материалы
