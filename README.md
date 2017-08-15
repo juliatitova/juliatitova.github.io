@@ -77,3 +77,7 @@
 
 
 [Урок 23](https://juliatitova.github.io/lesson_23_practice/) - Практика. Блок: Материалы
+
+
+[Урок 24](https://juliatitova.github.io/lesson_24_practice/) - Практика. Блок: Посмотрите как мы работаем и Доп. услуги
+
