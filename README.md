@@ -81,3 +81,6 @@
 
 [Урок 24](https://juliatitova.github.io/lesson_24_practice/) - Практика. Блок: Посмотрите как мы работаем и Доп. услуги
 
+
+[Урок 25](https://juliatitova.github.io/lesson_25_practice/) - Практика. Блок: Контакты и Footer
+
